@@ -1,3 +1,3 @@
-export { default as useNowFactory } from './hooks/useNowFactory'
-export { default as usePredictableTrigger } from './hooks/usePredictableTrigger'
-export { default as useTrigger } from './hooks/useTrigger'
+export { default as useNowFactory } from './useNowFactory'
+export { default as usePredictableTrigger } from './usePredictableTrigger'
+export { default as useTrigger } from './useTrigger'
